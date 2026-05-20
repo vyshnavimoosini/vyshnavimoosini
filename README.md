@@ -58,18 +58,6 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" title="JUnit" alt="JUnit" />
 </p>
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyshnavimoosini&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavimoosini&theme=tokyonight" />
-</p>
-
----
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/vyshnavimoosini/
