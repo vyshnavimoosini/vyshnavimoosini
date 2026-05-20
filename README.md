@@ -62,17 +62,15 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manichandra37&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vyshnavimoosini&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manichandra37&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavimoosini&theme=tokyonight" />
 </p>
 
 ---
 
 ## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/manichandramaddi/
-- Email: manichandramaddi405@gmail.com
-- Leetcode: https://leetcode.com/u/manichandramaddi73/
-- X: https://x.com/Manichandra2318
+- LinkedIn: https://www.linkedin.com/in/vyshnavimoosini/
+- Email: vyshnavimoosini222@gmail.com
